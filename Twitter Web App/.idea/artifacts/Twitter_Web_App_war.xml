@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Twitter Web App:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="TwitterMap.war">
+      <element id="artifact" artifact-name="Twitter Web App:war exploded" />
+    </root>
+  </artifact>
+</component>
